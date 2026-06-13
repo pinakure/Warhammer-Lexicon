@@ -16,7 +16,7 @@ Live Demo: https://warhammer.iskarion.ddns.net
 ## Install / Deploy Instructions
  1. Clone Repository
     ```bash
-    git clone git@github.com:pinakure/MegaNgine.git /src/warhammer
+    git clone git@github.com:pinakure/Warhammer-Lexicon.git /src/warhammer
     ```
  2. Get up the container
     ```bash
